@@ -4,4 +4,4 @@
 - I will also discuss how I set up a splunk server in a controller enviorment and used it to monitor my AD computer on the network.
 
 
-![image](https://github.com/XavierTackett/Active_Directory_Lab/assets/116126997/9e873a68-19e3-4158-80b0-ccf24703dc89)
+![image](https://github.com/XavierTackett/Active_Directory_Lab/assets/116126997/998900bb-e57f-4cfe-9b9b-742ba4f88b1f)
